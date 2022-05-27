@@ -27,9 +27,8 @@ Collab With @SecurityTechnologisIDx
 # Support Language (Beta)
 - English (Default)
 - Indonesia
-- Thailand
 - Philippines
-- Russian
+- Indian
 
 
 # Support Terminal 

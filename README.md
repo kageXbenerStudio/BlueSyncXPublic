@@ -7,7 +7,14 @@ Collab With @BXDTools
 Collab With @SecurityTechnologisIDx
 
 
-# how to download 
+# how to download
+- $pkg install git
+- $pkg install python2
+- $git clone https://github.com/kageXbenerStudio/BlueSyncXPublic
+- $cd BlueSyncXInstaller
+- $pyhon2 install.py
+
+
 # Termux
 - $apt update
 - $pkg install git

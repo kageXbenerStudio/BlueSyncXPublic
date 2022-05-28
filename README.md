@@ -20,8 +20,8 @@ Collab With @SecurityTechnologisIDx
 - $apt update
 - $pkg install git
 - $pkg install python2
-- git clone https://github.com/kageXbenerStudio/BlueSyncXPublic
-- $cd BlueSyncXPublic
+- git clone https://github.com/kageXbenerStudio/BlueSyncX
+- $cd BlueSyncX
 - $python2 install.py
 
 

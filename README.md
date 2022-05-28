@@ -16,6 +16,7 @@ Collab With @SecurityTechnologisIDx
 
 
 # Termux
+- $cd
 - $apt update
 - $pkg install git
 - $pkg install python2
@@ -27,8 +28,6 @@ Collab With @SecurityTechnologisIDx
 # Support Language (Beta)
 - English (Default)
 - Indonesia
-- Philippines
-- Indian
 
 
 # Support Terminal 

@@ -3,8 +3,8 @@ BlueSyncX is a Project Tools BlueSync Security protected tool And powered by Blu
 
 
 # Collab
-Collab With @BXDTools
-Collab With @SecurityTechnologisIDx
+- Collab With @BXDTools
+- Collab With @SecurityTechnologisIDx
 
 
 # Warning Requirement
@@ -38,6 +38,6 @@ This Project to download tools that have been approved by other parties
 
 
 # Copyright
-Project By kageXbenerStudios
+**Project By kageXbenerStudios**
 
-® Copyright By BlueSyncX
+**® Copyright By BlueSyncX**

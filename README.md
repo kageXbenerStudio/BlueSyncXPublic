@@ -7,6 +7,11 @@ Collab With @BXDTools
 Collab With @SecurityTechnologisIDx
 
 
+# Warning Requirement
+- Access SdCard Files
+- Install Certain Package
+
+
 # how to download
 **Install BlueSyncX For Termux**
 - $pkg install git
@@ -15,7 +20,7 @@ Collab With @SecurityTechnologisIDx
 - $cd InstallBlueSyncX
 - $pyhon2 install.py
 
-# Support Language (Beta)
+# Support Language 1.0 (Beta)
 - English (Default)
 - Indonesia
 

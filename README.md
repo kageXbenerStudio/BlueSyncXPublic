@@ -8,22 +8,12 @@ Collab With @SecurityTechnologisIDx
 
 
 # how to download
+**Install BlueSyncX For Termux**
 - $pkg install git
 - $pkg install python2
-- $git clone https://github.com/kageXbenerStudio/BlueSyncXPublic
-- $cd BlueSyncXInstaller
+- $git clone https://github.com/kageXbenerStudio/InstallBlueSyncX
+- $cd InstallBlueSyncX
 - $pyhon2 install.py
-
-
-# Termux
-- $cd
-- $apt update
-- $pkg install git
-- $pkg install python2
-- git clone https://github.com/kageXbenerStudio/BlueSyncX
-- $cd BlueSyncX
-- $python2 install.py
-
 
 # Support Language (Beta)
 - English (Default)

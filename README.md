@@ -4,7 +4,6 @@ BlueSyncX is a Project Tools BlueSync Security protected tool And powered by Blu
 
 # Collab
 - Collab With @BXDTools
-- Collab With @SecurityTechnologisIDx
 
 
 # Warning Requirement

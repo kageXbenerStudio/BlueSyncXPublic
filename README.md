@@ -40,3 +40,9 @@ This Project to download tools that have been approved by other parties
 **Project By kageXbenerStudios**
 
 **® Copyright By BlueSyncX**
+
+development stage time 
+5 May 2022
+
+First Beta Public
+1 April 2022

@@ -21,7 +21,8 @@ BlueSyncX is a Project Tools BlueSync Security protected tool And powered by Blu
 
 # Support Language 1.0 (Beta)
 - English (Default)
-- Indonesia
+- Indian
+- Indonesian
 
 
 # Support Terminal 

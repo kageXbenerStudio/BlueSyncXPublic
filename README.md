@@ -9,6 +9,7 @@ BlueSyncX is a Project Tools BlueSync Security protected tool And powered by Blu
 # Warning Requirement
 - Access SdCard Files
 - Install Certain Package
+- BlueSyncXApi
 
 
 # how to download
